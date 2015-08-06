@@ -1,0 +1,10 @@
+.quote-text {
+  margin: 1rem 0;
+  margin-top: 3rem;
+  color: #3498db;
+}
+
+.quote-author {
+  font-size: 1.3em;
+  color: #2980b9;
+}
